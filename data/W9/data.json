@@ -1,0 +1,29 @@
+[
+    {
+        "mailbox": "4dm1m@dwexy.cloud----yGN06kXEw",
+        "account": "4dm1m@dwexy.cloud",
+        "password": "yGN06kXEw",
+        "1step_number": "4591560141520247",
+        "1step_month": "02",
+        "1step_year": "2027",
+        "1step_code": "765",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1665",
+        "real_name": "Mikayla Petrov",
+        "street": "ชยางกูร, 147",
+        "city": "Bangkok",
+        "state": "Bangkok",
+        "postcode": "48000",
+        "country_full_name": "Thailand",
+        "country_code": "TH",
+        "proxy_country_code": "TH",
+        "phone_number_id": "3840178455",
+        "phone_number": "967626037",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3840178455&platform=sms",
+        "numeric_id": 52,
+        "dialing_code": "66",
+        "email_api_provider": "Domain"
+    }
+]

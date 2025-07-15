@@ -1,0 +1,29 @@
+[
+    {
+        "mailbox": "qduwvk6ni5@dwexy.work----4kHWV1M4K3e05H",
+        "account": "qduwvk6ni5@dwexy.work",
+        "password": "4kHWV1M4K3e05H",
+        "1step_number": "5129670810624606",
+        "1step_month": "03",
+        "1step_year": "2026",
+        "1step_code": "471",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1665",
+        "real_name": "Lemuel Shurtleff",
+        "street": "ถนน ปัญญาอินทรา, 99",
+        "city": "Bangkok",
+        "state": "Bangkok",
+        "postcode": "10510",
+        "country_full_name": "Thailand",
+        "country_code": "TH",
+        "proxy_country_code": "TH",
+        "phone_number_id": "3840182335",
+        "phone_number": "829791801",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3840182335&platform=sms",
+        "numeric_id": 52,
+        "dialing_code": "66",
+        "email_api_provider": "Domain"
+    }
+]

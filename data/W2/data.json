@@ -1,0 +1,29 @@
+[
+    {
+        "mailbox": "65m2mq6s@dwexy.work----3UNcG4MKtkSh",
+        "account": "65m2mq6s@dwexy.work",
+        "password": "3UNcG4MKtkSh",
+        "1step_number": "4341550101531766",
+        "1step_month": "03",
+        "1step_year": "2031",
+        "1step_code": "784",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1665",
+        "real_name": "Anibal Reddick",
+        "street": "ซอยเจ้าลาย 5, 253/49",
+        "city": "Bangkok",
+        "state": "Bangkok",
+        "postcode": "76120",
+        "country_full_name": "Thailand",
+        "country_code": "TH",
+        "proxy_country_code": "TH",
+        "phone_number_id": "3840180255",
+        "phone_number": "834715480",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3840180255&platform=sms",
+        "numeric_id": 52,
+        "dialing_code": "66",
+        "email_api_provider": "Domain"
+    }
+]

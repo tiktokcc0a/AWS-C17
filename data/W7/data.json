@@ -1,0 +1,29 @@
+[
+    {
+        "mailbox": "19d4uxpqj0@dwexy.work----5H1fRIz78hzh",
+        "account": "19d4uxpqj0@dwexy.work",
+        "password": "5H1fRIz78hzh",
+        "1step_number": "4591782008469801",
+        "1step_month": "10",
+        "1step_year": "2028",
+        "1step_code": "717",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1665",
+        "real_name": "Ariana Agnello",
+        "street": "ม.5 ต.สามหมื่น, 123",
+        "city": "Bangkok",
+        "state": "Bangkok",
+        "postcode": "63140",
+        "country_full_name": "Thailand",
+        "country_code": "TH",
+        "proxy_country_code": "TH",
+        "phone_number_id": "3840182765",
+        "phone_number": "845801787",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3840182765&platform=sms",
+        "numeric_id": 52,
+        "dialing_code": "66",
+        "email_api_provider": "Domain"
+    }
+]

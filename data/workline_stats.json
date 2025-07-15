@@ -1,0 +1,62 @@
+{
+    "W1": {
+        "success": 5,
+        "failure": 2
+    },
+    "W2": {
+        "success": 5,
+        "failure": 2
+    },
+    "W3": {
+        "success": 4,
+        "failure": 3
+    },
+    "W4": {
+        "success": 5,
+        "failure": 2
+    },
+    "W5": {
+        "success": 2,
+        "failure": 3
+    },
+    "W6": {
+        "success": 5,
+        "failure": 1
+    },
+    "W7": {
+        "success": 5,
+        "failure": 1
+    },
+    "W8": {
+        "success": 3,
+        "failure": 2
+    },
+    "W9": {
+        "success": 3,
+        "failure": 1
+    },
+    "W10": {
+        "success": 3,
+        "failure": 2
+    },
+    "W11": {
+        "success": 2,
+        "failure": 0
+    },
+    "W12": {
+        "success": 2,
+        "failure": 0
+    },
+    "W13": {
+        "success": 1,
+        "failure": 1
+    },
+    "W14": {
+        "success": 1,
+        "failure": 2
+    },
+    "W15": {
+        "success": 1,
+        "failure": 0
+    }
+}
